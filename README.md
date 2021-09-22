@@ -1,1 +1,1 @@
-# earn-tools.github.io
+# earn.tools
